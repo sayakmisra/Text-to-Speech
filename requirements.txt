@@ -29,7 +29,7 @@ h5py==2.10.0
 idna==2.10
 inflect==4.1.0
 ipykernel==5.3.4
-ipython==7.17.0
+ipython
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jaconv==0.2.4
@@ -79,7 +79,7 @@ resampy==0.2.2
 scikit-learn==0.23.2
 scipy==1.5.2
 Send2Trash==1.5.0
-six==1.15.0
+six
 SoundFile==0.10.3.post1
 soupsieve==2.0.1
 tensorboardX==2.1
